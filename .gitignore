@@ -1,4 +1,4 @@
-file.log
+*.log
 *.db
 /bin
 /target
